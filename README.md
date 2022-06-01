@@ -10,3 +10,9 @@ Zhang Chen Lab, Peking University/Capital Medical University
  <img src="high-magnification-lite/EM images_ResultsVisual/5-rescale.tif" height="150px" width="auto"/> 
  ***low-magnification-lite***: Low-magnification module.  <br>
  <img src="low-magnification-lite/EM images_AutoDetect/test_0124_AutoDetect-rescale.tif" height="150px" width="auto"/> 
+
+## Run the system
+Please load data (EM images and pre-trined models) in BaiduDisk first:   <br>
+	Link: https://pan.baidu.com/s/1LKnO_B4rSShw0VtLWMjo8A    <br>
+	Entercode: EMIM    <br>
+run main.m files in *high-magnification-lite* and *low-magnification-lite*.
