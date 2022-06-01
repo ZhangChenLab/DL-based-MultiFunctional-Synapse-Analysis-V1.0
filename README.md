@@ -7,9 +7,9 @@ Zhang Chen Lab, Peking University/Capital Medical University
  
  ## File description
  ***high-magnification-lite***: High-magnification module.  <br>
- <img src="high-magnification-lite/EM images_ResultsVisual/5-rescale.tif" height="150px" width="auto"/> 
+ <img src="high-magnification-lite/EM images_ResultsVisual/5-rescale.png" height="150px" width="auto"/> 
  ***low-magnification-lite***: Low-magnification module.  <br>
- <img src="low-magnification-lite/EM images_AutoDetect/test_0124_AutoDetect-rescale.tif" height="150px" width="auto"/> 
+ <img src="low-magnification-lite/EM images_AutoDetect/test_0124_AutoDetect-rescale.png" height="150px" width="auto"/> 
 
 ## Run the system
 Please load data (EM images and pre-trined models) in BaiduDisk first:   <br>
