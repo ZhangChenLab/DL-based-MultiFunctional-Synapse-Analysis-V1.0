@@ -7,4 +7,6 @@ Zhang Chen Lab, Peking University/Capital Medical University
  
  ## File description
  ***high-magnification-lite***: High-magnification module.  <br>
+ <img src="high-magnification-lite/EM images_ResultsVisual/5-rescale.tif" height="150px" width="auto"/> 
  ***low-magnification-lite***: Low-magnification module.  <br>
+ <img src="low-magnification-lite/EM images_AutoDetect/test_0124_AutoDetect-rescale.tif" height="150px" width="auto"/> 
